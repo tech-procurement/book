@@ -1,0 +1,9 @@
+baseURL = "https://techprocurement.org/"
+languageCode = "en-us"
+title = "Tech Procurement for the Incoming Govvie"
+theme = "book"
+
+
+
+[params]
+    BookMenuBundle = '/menu'
