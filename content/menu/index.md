@@ -3,4 +3,4 @@ headless: true
 ---
 
 - **Home**
-  - [Introduction]({{< relref "/docs/chapters/introduction" >}})
+  - [Introduction]({{< relref "/chapters/introduction" >}})

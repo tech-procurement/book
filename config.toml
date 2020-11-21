@@ -7,3 +7,4 @@ theme = "book"
 
 [params]
     BookMenuBundle = '/menu'
+    BookSection = 'chapters'
