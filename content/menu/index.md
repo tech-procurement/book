@@ -2,5 +2,10 @@
 headless: true
 ---
 
-- **Home**
-  - [Introduction]({{< relref "/chapters/introduction" >}})
+- **Chapters**
+
+  - [0. Introduction]({{< relref "/chapters/introduction" >}})
+
+---
+
+- [Authors]({{< relref "/who" >}})
