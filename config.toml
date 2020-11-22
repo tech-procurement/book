@@ -2,9 +2,12 @@ baseURL = "https://techprocurement.org/"
 languageCode = "en-us"
 title = "Tech Procurement for the Incoming Govvie"
 theme = "book"
-
+authors = ["V. David Zvenyach"]
 
 
 [params]
+    description = "A book of actionable information about how to procure tech in the federal government."
+    title = "Tech Procurement for the Incoming Govvie"
+
     BookMenuBundle = '/menu'
     BookSection = 'chapters'

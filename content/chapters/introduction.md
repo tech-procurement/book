@@ -1,7 +1,8 @@
 ---
 weight: 1
 bookFlatSection: true
-title: "Introduction"
+title: "techprocurement.org | Introduction"
+description: "The goals and anti-goals of this book, and why us and now?"
 ---
 
 # Introduction
