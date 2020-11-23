@@ -1,7 +1,8 @@
 ---
-weight: 2
+weight: 5
 bookFlatSection: true
-title: "Contract vehicles"
+title: "techprocurement.org | Contract vehicles"
+description: "Contract vehicles play a major role in federal IT procurement. This section describes what a contract vehicle is and describes the major vehicles used in the government."
 ---
 
 # Contract vehicles
@@ -53,8 +54,16 @@ Beyond the GSA Multiple Award Schedules program, the other category of large con
 
 {{< /hint >}}
 
+One of the principal benefits of using a GWAC is that an order under $10 million cannot be protested.
+
 ## IDIQs and BPAs
 
-### IDIQs
+Often times, individual agencies will establish contract vehicles for use by that agency. The two major types of these contract vehicles are what are called (1) "Indefinite Duration / Indefinite Quantity" or "IDIQs" and (2) "Blanket Purchase Agreements" or "BPAs." Typically, IDIQs or BPAs are created as "multiple award" IDIQs/BPAs, which means that multiple vendors can compete for individual task orders.
 
-### BPAs
+Although there are legal differences between the two types, the main differences are:
+
+- IDIQs, like GWACs, cannot be protested for orders under $10 million.
+- BPAs, unlike IDIQS, can be created _against_ GSA Schedules, making their establishment procedurally easier
+- BPAs have an upper limit that can be spent against them, but are typically not bound by time. By contrast, IDIQs are typically bound by a contract term and the upper limit can be adjusted.
+
+Agencies often have a mixture of IDIQs and BPAs they use, which significantly affects acquisition strategies for projects within a given agency. If your agency has IDIQs or BPAs that are routinely used, you should get to know them sooner rather than later.
