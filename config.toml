@@ -11,3 +11,5 @@ authors = ["V. David Zvenyach"]
 
     BookMenuBundle = '/menu'
     BookSection = 'chapters'
+    BookRepo = 'https://github.com/tech-procurement/book'
+    BookEditPath = 'edit/main/content'
