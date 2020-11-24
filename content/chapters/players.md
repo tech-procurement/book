@@ -77,7 +77,7 @@ For the most part, you'll want to maintain solid relationships with each of thes
 
 ## Agencies
 
-The players described above are usually part of the same agency. But there are other agencies in the federal government that may affect a given procurement. In this section, we'll cover the four main
+The players described above are usually part of the same agency. But there are other agencies in the federal government that may affect a given procurement. In this section, we'll cover the four main agencies that play a role in federal procurement.
 
 ### General Services Administration
 
@@ -93,4 +93,4 @@ The _Government Accountability Office_ (GAO) plays two significant roles. First,
 
 ### Office of Management and Budget
 
-The last, but not least, major player in the federal procurement space is the _Office of Management and Budget_ (OMB). In particular, the _Office of Federal Procurement Policy_ plays a major role in defining and supporting federal procurement policy. Other offices within OMB that play roles in tech procurement are the _Office of the Federal Chief Information Officer_ and the _US Digital Service_.
+The last, but not least, major player in the federal procurement space is the _Office of Management and Budget_ (OMB). In particular, the _Office of Federal Procurement Policy_ plays a major role in defining and supporting federal procurement policy. Other offices within OMB that play roles in tech procurement are the _Office of the Federal Chief Information Officer_ and the _US Digital Service_. Both of these offices provide technical leadership that inform federal tech policy.
