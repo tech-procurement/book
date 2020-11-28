@@ -55,7 +55,29 @@ The first "F" of federal procurement is the Federal Acquisition Regulations, or 
 
 ### FITARA
 
-[More to come]
+To those of us who work in Federal procurement every day, FITARA was a huge game changer. Leading up to its passage as part of the National Defense Authorization Act in 2014, there was endless lobbying, jockeying for position, and speculation about what it would mean for how the government buys IT. In the end, as with most procurement legislation, it contained ambitious goals and left the specifics to be ironed out by Executive Branch components. Unlike most legislation, FITARA had teeth and it has worked to transform cultures and save billions.
+
+Technology changes quickly. The government does not. Of the approximately $70 billion the government spent on information technology (IT) in Fiscal Year (FY) 2013, about half went to maintaining legacy systems. Capabilities and functions were duplicated across agencies and within agencies. There was very little central management and very little strategic investment planning. There was no way to tell if the money being spent resulted in any benefit to the taxpayer. The 1996 Clinger-Cohen Act tried to address some of this, but did not produce results.
+
+Congress passed FITARA to streamline technology acquisition, make oversight more efficient, and help agencies align investments to objectives. Its goal was to drive down IT costs by reducing redundancy and waste. It mandates collaboration, effective management of investment, consolidation of duplicate software licenses, and standardization of procurement approaches across agencies. Here are some of the important components of FITARA:
+
+1. Appoint a single CIO at 16 of the most important agencies - the CIOs report directly to the agency heads and have specific authority over budget planning and hiring
+2. Establish the CIO Council as the forum for improving investment decisions, the effectiveness of which is evaluated by the Government Accountability Office (GAO)
+3. Identify a Federal CIO (Administrator of the Office of E-Government & Information Technology at OMB) who is mandated to optimize the use and cost of data centers
+4. Create of a government-wide inventory of IT assets (DoD not included)
+5. Identify and consolidate government websites
+6. Promote the benefits of transition to cloud computing
+7. Create a mandatory approval process for creating new contract vehicles through the Administrator to Federal Procurement Policy (FFP)
+8. Mandate collaboration on and standardization of requirements for procurement of commonly used IT infrastructure and applications
+9. Designate Assisted Acquisition Centers of Excellence (AACEs) with authority to make and implement best practices and assist agencies in procurement
+10. Require a comparative value analysis when purchasing items that are included in the Federal Strategic Sourcing Initiative through other avenues
+11. Allow executive agencies to establish price in advance on firm-fixed price (FFP) contracts, allowing vendors to compete only on non-price factors
+12. Provide additional information on IT investments to the public
+13. Provide guidance on the validity of open-source software as an option without a bias for how the software is developed or distributed and require standards to include guidelines for effective adoption of open source software.
+
+These objectives were truly transformative. They addressed longstanding issues with technology management and acquisition in the government with sweeping reforms. As with big changes in any large organization, the devil is in the details. Specifically, government agencies have different cultures, different needs, and different missions. Consolidation and standardization is hard and reaping the promised benefits can sometimes be hindered by the need to focus on what each agency is created to do.
+
+Surprising precisely nobody, implementation has not been smooth or even across all agencies. In fact, the August 2020 FITARA scorecard was the first in which all agencies with a passing grade of C+ or above.
 
 ### FISMA
 
