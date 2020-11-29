@@ -9,6 +9,6 @@ pdf:
 		-V documentclass=book \
 		-V header-includes="\usepackage{merriweather}" \
  		-V header-includes="\usepackage{tcolorbox}" \
-		-V header-includes="\newtcolorbox{myquote}{colback=red!5!white, colframe=red!75!black}" \
+		-V header-includes="\newtcolorbox{myquote}{colback=gray!5!white, colframe=red!75!black}" \
 		-V header-includes="\renewenvironment{quote}{\begin{myquote}}{\end{myquote}}" \
 		./content/chapters/*.md --out tech_procurement_book.pdf

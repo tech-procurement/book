@@ -7,7 +7,13 @@ description: "The goals and anti-goals of this book, and why us and now?"
 
 # Introduction
 
-{{< tweet 941036458307076097 >}}
+{{< rawhtml >}}
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Gov&#39;t Digital Service progression:<br>year 1: &quot;Why y&#39;all talk about procurement so much? How boring.&quot;<br>year 2: &quot;Man, procurement&#39;s a pain.&quot;<br>yr 3: &quot;We should really consider doing something about procurement&quot;<br>yr 4: &quot;Holy crap there&#39;s nothing more important than solving procurement!&quot;</p>&mdash; sasha magee (@sashax) <a href="https://twitter.com/sashax/status/941036458307076097?ref_src=twsrc%5Etfw">December 13, 2017</a></blockquote>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+{{< /rawhtml >}}
 
 If you’re trying to get stuff done in government, much of your job will depend on the success of hired contractors. The system of how the government hires contractors is called “procurement” or “acquisition,” and it is very different from the sort of buying experience anyone is used to outside of government. From day one of your job, you’ve been warned about how dangerous, or complicated, or time-consuming procurement can be. It looks hard. Also, let’s face it: it sounds boring.
 
