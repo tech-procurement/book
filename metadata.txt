@@ -1,0 +1,19 @@
+---
+title: "Tech Procurement for the Incoming Govvie"
+subtitle: A no-BS guide
+author: V. David Zvenyach
+subject: "tech procurement"
+keywords: [books,programming]
+language: en-US
+cover-image: "static/images/techprocurement.png"
+lof: false
+lof-own-page: false
+toc: true
+toc-own-page: true
+titlepage: false
+titlepage-text-color: "333333"
+titlepage-rule-color: "00737C"
+papersize: a5
+prepend-titlepage: "static/images/techprocurement.png"
+colorlinks: true
+---
