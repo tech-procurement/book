@@ -25,7 +25,7 @@ Beyond budget, though, there are likely multiple other criteria. For example, yo
 
 The same is true for government procurement; buying the "right" thing can be complicated. But, in government, there's a twist. Politics. While buying a car is a personal decision, involving implicit and explicit preferences, government purchasing involves policy choices about _how public funds should be spent_.
 
-Making matters complicated, the policy choices associated with public procurement are often in tension with each other. For example, because political actors believe that market forces lead to lower prices and better quality, they have established rules and regulations requiring **competition**. But competition can time consuming and burdensome, so political actors have established rules and regulations that are designed to **promote efficiency**. Sometimes bad actors try and cheat, and get caught, and as a result political actors establish rules and regulations around **integrity** and **transparency**.
+Making matters complicated, the policy choices associated with public procurement are often in tension with each other. For example, because political actors believe that market forces lead to lower prices and better quality, they have established rules and regulations requiring **competition**. But competition can be time consuming and burdensome, so political actors have established rules and regulations that are designed to **promote efficiency**. Sometimes bad actors try and cheat, and get caught, and as a result political actors establish rules and regulations around **integrity** and **transparency**.
 
 Indeed, Professor Steven Schooner has [outlined nine different goals](https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1101&context=faculty_publications) that most public-procurement systems attempt to balance:
 
@@ -55,7 +55,7 @@ The first "F" of federal procurement is the Federal Acquisition Regulations, or 
 
 ### FITARA
 
-To those of us who work in Federal procurement every day, FITARA was a huge game changer. Leading up to its passage as part of the National Defense Authorization Act in 2014, there was endless lobbying, jockeying for position, and speculation about what it would mean for how the government buys IT. In the end, as with most procurement legislation, it contained ambitious goals and left the specifics to be ironed out by Executive Branch components. Unlike most legislation, FITARA had teeth and it has worked to transform cultures and save billions.
+To those of us who work in federal procurement every day, FITARA was a huge game changer. Leading up to its passage as part of the National Defense Authorization Act in 2014, there was endless lobbying, jockeying for position, and speculation about what it would mean for how the government buys IT. In the end, as with most procurement legislation, it contained ambitious goals and left the specifics to be ironed out by Executive Branch components. Unlike most legislation, FITARA had teeth and it has worked to transform cultures and save billions.
 
 Technology changes quickly. The government does not. Of the approximately $70 billion the government spent on information technology (IT) in Fiscal Year (FY) 2013, about half went to maintaining legacy systems. Capabilities and functions were duplicated across agencies and within agencies. There was very little central management and very little strategic investment planning. There was no way to tell if the money being spent resulted in any benefit to the taxpayer. The 1996 Clinger-Cohen Act tried to address some of this, but did not produce results.
 
@@ -64,7 +64,7 @@ Congress passed FITARA to streamline technology acquisition, make oversight more
 1. Appoint a single CIO at 16 of the most important agencies - the CIOs report directly to the agency heads and have specific authority over budget planning and hiring
 2. Establish the CIO Council as the forum for improving investment decisions, the effectiveness of which is evaluated by the Government Accountability Office (GAO)
 3. Identify a Federal CIO (Administrator of the Office of E-Government & Information Technology at OMB) who is mandated to optimize the use and cost of data centers
-4. Create of a government-wide inventory of IT assets (DoD not included)
+4. Create a government-wide inventory of IT assets (DoD not included)
 5. Identify and consolidate government websites
 6. Promote the benefits of transition to cloud computing
 7. Create a mandatory approval process for creating new contract vehicles through the Administrator to Federal Procurement Policy (FFP)
@@ -81,13 +81,13 @@ Surprising precisely nobody, implementation has not been smooth or even across a
 
 ### FISMA
 
-The third "F" of federal procurement is the Federal Information Security Management Act, or "FISMA" (pronounced "FIZZ-mah"). Although there are multiple aspects to FISMA, the impact on federal tech procurement is relatively straightforward. FISMA requires that an "information system" used by the government to implement certain security controls and maintain an "authority to operate" (or "ATO") for the system.
+The third "F" of federal procurement is the Federal Information Security Management Act, or "FISMA" (pronounced "FIZZ-mah"). Although there are multiple aspects to FISMA, the impact on federal tech procurement is relatively straightforward. FISMA requires that an "information system" used by the government implement certain security controls and maintain an "authority to operate" (or "ATO") for the system.
 
 Depending on the agency and the nature of the information system in question, obtaining an ATO can be an expensive and laborious effort. That's because, to obtain an ATO, the information must implement and sufficiently document security controls that meet the standards set forth in a document called NIST 800-53. Which specific controls are implemented will depend on the agency's assessment of risk and based on a framework called "FIPS 199." Under FIPS 199, systems should be classified as a Low, Moderate, or High impact system.
 
 To help promote the use of cloud-based technologies, GSA operates a program called [FedRAMP](https://fedramp.gov), which reviews contractor's security controls to ensure compliance with NIST 800-53 and FIPS 199 and provides a "provisional ATO" that agencies can formally adopt. Although FedRAMP is not typically a legal requirement at the outset of a contract, some agencies require that systems be approved by FedRAMP.
 
-Although most folks involved in tech procurement will not need to understand the specifics of FISMA, it is important to understand that technology systems will need an ATO, and that the agency will have a process that is intended to ensure FISMA compliance. Planning for FISMA compliance will save significant headache during acquisition.
+Although most folks involved in tech procurement will not need to understand the specifics of FISMA, it is important to understand that technology systems will need an ATO, and that the agency will have a process that is intended to ensure FISMA compliance. Planning for FISMA compliance will save significant headaches during acquisition.
 
 ## Category management
 
