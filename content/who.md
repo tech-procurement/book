@@ -7,3 +7,4 @@ type: docs
 
 - [V. David Zvenyach](https://esq.io)
 - [Imogen Thomas](https://www.linkedin.com/in/imogen-thomas-she-her-6b967915/)
+- [Josh Bailes](https://twitter.com/joshuasbailes/)

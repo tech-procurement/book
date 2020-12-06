@@ -9,3 +9,4 @@ headless: true
   - [2. The Rules]({{< relref "/chapters/02_the-rules" >}})
   - [3. The Process]({{< relref "/chapters/03_the-process" >}})
   - [4. Contract vehicles]({{< relref "/chapters/04_contract_vehicles" >}})
+  - [5. Contractor dynamics]({{< relref "/chapters/05_contractor_dynamics" >}})
