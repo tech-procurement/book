@@ -45,7 +45,9 @@ Because the government can be a demanding buyer, there are a number of free reso
 The first resource is a _Procurement Technical Assistance Center_, or "PTAC" (pronounced "PEE-tak"). Every state has at least one PTAC (you can find PTACs here: https://www.aptac-us.org/), and PTACs provide training and direct counseling for businesses who are interested in working with the federal government.
 
 {{< hint info >}}
+
 If you encounter a company that has not worked with government before, encouraging them to chat with a PTAC is a really smart idea.
+
 {{< /hint >}}
 
 The next resource is the _Small Business Administration_, which provides various [contracting-assistance programs](https://www.sba.gov/federal-contracting/contracting-assistance-programs) to small businesses. In general, the SBA is particular engaged in assisting disadvantaged businesses (i.e., women-owned, veteran-owned, minority-owned businesses) that qualify for set-asides (we'll cover that later, too). But, the SBA also provides general counseling and lending resources to all small businesses.
@@ -53,5 +55,7 @@ The next resource is the _Small Business Administration_, which provides various
 The final resource is an agency _Office of Small & Disadvantaged Business Utilization_ or "OSDBU" (pronounced "OZ-duh-boo"). Each agency has an OSDBU, which exists to help increase the number of agency contracts awarded to small businesses each year.
 
 {{< hint info >}}
+
 As a govvie who's interested in tech procurement, you should get to know the folks in your agency's OSDBU. It's literally their job to help small businesses navigate federal procurement and to know how procurement in your agency works, so they often can give you good tips!
+
 {{< /hint >}}

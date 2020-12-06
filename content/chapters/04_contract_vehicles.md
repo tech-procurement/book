@@ -16,7 +16,9 @@ But what is a contract vehicle? In the next few sections, we will cover what a c
 A contract vehicle is a contract that establishes the terms and conditions for future transactions. Contract vehicles exist because “open competition” is burdensome and time-consuming; and rather than use open competition for things that the government regularly needs, the government establishes contract vehicles to streamline the process. Sometimes people refer to contract vehicles as "hunting licenses," because they allow vendors to go after work.
 
 {{< hint info >}}
+
 The technical name for a "contract vehicle" is an "indefinite delivery vehicle" or "IDV." Armed with this knowledge, you can filter for IDVs within [USASpending.gov](https://www.usaspending.gov/search/) to see if a particular vendor or agency has a contract vehicle available for use. To do that, look for the "Award Type" filter and filter by "Contract IDV."
+
 {{< /hint >}}
 
 In addition to reducing the burden and timeline for open market competition, contract vehicles typically establish “ceiling prices” for services and supplies. Typically, the government will seek discounts from the ceiling prices when placing a specific order, so the ceiling price often does not reflect the actual costs when a subsequent contract is established.
@@ -32,7 +34,9 @@ The first set of vehicles are Schedules and Governmentwide Acquisition Contracts
 If you have ever paid even the slightest attention to tech procurement before, there’s a decent chance you’ve heard of “Schedule 70.” That’s because the GSA Multiple Award Schedules program is the largest government contract in the whole world, and tech is a big part of the Schedules Program. In fiscal year 2019 alone, Schedule 70 accounted for $2.5 billion in federal IT spend.
 
 {{< hint info >}}
+
 Notably, though, Schedule 70 doesn’t exist as such anymore. Instead, GSA consolidated all of the schedules into single schedule contracts. But people still colloquially refer to the program as Schedule 70; the proper name for the program is now MAS IT (pronounced “Mass Eye-Tee”).
+
 {{< /hint >}}
 
 In addition to having the largest diversity of vendors, the IT Schedule is an extremely _flexible_ vehicle. For example, under the IT Schedule, if you think you’re going to have sufficient competition, you can compete among any 3 vendors on the IT Schedule. Full stop. Another example is that you can combine professional services and IT services under the same contract and even enable “contractor teaming agreements” with multiple vendors. Or, you can buy things not on a vendor’s schedule contract as an “Order Level Material.” Or, you can also establish “blanket purchase agreements” or “BPAs” against the IT Schedule (we’ll cover BPAs in more detail below). And, on top of all of that, the actual “ordering procedures” are streamlined for purchases made against schedules. In short, schedules are super flexible.
