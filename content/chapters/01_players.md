@@ -31,7 +31,7 @@ Within each company, there are internal hierarchies with titles like (in ascendi
 
 The next set of key players are part of the "acquisition workforce." Sometimes the individuals in the acquisition workforce are referred to as "1102s," referring the [OPM classification for the "Contracting Series"](https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/1100/contracting-series-1102/).
 
-At the center of any acquisition is the _Contracting Officer_ or "CO" (or, for those in the military, a "KO"). A Contracting Officer is key because she holds a "warrant," which authorizes her to legally bind the federal government to a contract. Let's reinforce that point: **only a Contracting Office may legally bind the government to a contract**.
+At the center of any acquisition is the _Contracting Officer_ or "CO" (or, for those in the military, a "KO"). A Contracting Officer is key because she holds a "warrant," which authorizes her to legally bind the federal government to a contract (make contractual decisions). Let's reinforce that point: **only a Contracting Office may legally bind the government to a contract**.
 
 Contracting Officers will often have many years of experience in the acquisition workforce, with hundreds — perhaps thousands — of hours dedicated to training and certifications. Typically, a civilian CO will have a certification called a "Federal Acquisition Certification in Contracting" or "FAC-C," at a level between 1 (at the low end) and 3 (at the high end). In the Department of Defense, a KO (again, what they call a CO) will have a "Defense Acquisition Workforce Improvement Act" or "DAWIA" certification.
 
