@@ -37,7 +37,7 @@ Finally, we hope this book is an accessible and, at times, enjoyable read. The F
 
 This book is not intended to be a replacement for actual procurement training. If you are going to join the acquisition workforce, you’re going to need to go through formal training, likely through the [Federal Acquisition Institute](https://fai.gov).
 
-This book is also not intended to reflect the official policy of the government. For example, one of the things that we’ll discuss in various parts of the book is how the system is gamed. We don’t endorse those practices necessarily, but you need to understand them if you want to be effective, guard against them, innovate from them, or whatever. If this were an official policy document, agency counsel would never let us admit that people game the system. (Narrator voice: people game the system.)
+This book is also not intended to reflect the official policy of the government. For example, one of the things that we’ll discuss in various parts of the book is how the system is gamed. We don’t endorse those practices necessarily, but you need to understand them if you want to be effective, guard against them, and innovate from them. If this were an official policy document, agency counsel would never let us admit that people game the system. (Narrator voice: people game the system.)
 
 This book will not try to cover all types of procurement. We’re only going to cover tech procurement. Why? Because it’s what we know best and it’s also close enough to other types of procurement that it’s close enough. But if there’s some specific nuance around, I don’t know, purchasing spiral notebooks, this book might not even get you in the ballpark.
 
